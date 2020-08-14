@@ -2,6 +2,10 @@
 
 For my Project 4 of my Software Immersive class, I have decided to recreate my Project 1 into a platformer using Unity. For my Project 1, I started making a game inspired by the upcoming Bill and Ted 3 and feel like it would be a fun learning experience to build it out in Unity now. I have always had a passion for video games and would love to learn how to create my own with the power of Unity! 
 
+In the first iteration, I used HTML, CSS, and JavaScript. The gameboard was created using canvas and learning how to add sprites and other objects sure was fun... This time I feel like I will be able to accomplish something closer to my original goal that I had with the first one.
+
+I would like to create a basic platformer that sees Bill and Ted in an enviroment where they need to collect 3 items left in the level before a door opens to advance to the next level. Let's see how far close to this goal I can get!!
+
 ## Project Name, My Name, and Tech Used
 *Be Excellent To Each Other II* 
 *Nicholas Foxen*
